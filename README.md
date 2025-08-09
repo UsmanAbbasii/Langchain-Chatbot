@@ -150,30 +150,67 @@
 <!-- Project Cards -->
 <table>
 <tr>
-<td width="50%">
-<h3>🧠 Deep Learning Glioma Detection</h3>
-<p>Automated glioma grade identification from MRI using CNNs & radiomics.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-</p>
-<a href="https://github.com/YOUR-GITHUB-REPO"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?logo=github&logoColor=white" /></a>
-<a href="https://YOUR-LIVE-DEMO-LINK"><img src="https://img.shields.io/badge/Live%20Demo-00C853?logo=google-chrome&logoColor=white" /></a>
+
+<!-- Project Cards -->
+<table>
+<tr>
+
+<!-- Project 1 -->
+<td width="50%" align="center">
+  <!-- Project Image (clickable) -->
+  <a href="https://github.com/UsmanAbbasii/">
+    <img src="https://github.com/UsmanAbbasii/EKYC-using-computer-Vision-and-SQL-with-Deployment/ekyc.png" 
+         alt="Glioma Detection" width="100%" />
+  </a>
+
+  <!-- Project Title -->
+  <h3>🧠 Deep Learning Glioma Detection</h3>
+
+  <!-- Short Description -->
+  <p>Automated glioma grade identification from MRI using CNNs & radiomics.</p>
+
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  </p>
+
+  <!-- Links -->
+  <a href="https://github.com/YOUR-GITHUB-REPO">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://YOUR-LIVE-DEMO-LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?logo=google-chrome&logoColor=white" />
+  </a>
 </td>
 
-<td width="50%">
-<h3>☀️ Solar Energy Forecasting</h3>
-<p>Multi-horizon deep learning models for predicting solar energy output for agriculture.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-</p>
-<a href="https://github.com/YOUR-GITHUB-REPO"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?logo=github&logoColor=white" /></a>
+<!-- Project 2 -->
+<td width="50%" align="center">
+  <!-- Project Image (clickable) -->
+  <a href="https://github.com/YOUR-GITHUB-REPO">
+    <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/path/to/solar_project_image.png" 
+         alt="Solar Energy Forecasting" width="100%" />
+  </a>
+
+  <!-- Project Title -->
+  <h3>☀️ Solar Energy Forecasting</h3>
+
+  <!-- Short Description -->
+  <p>Multi-horizon deep learning models for predicting solar energy output for agriculture.</p>
+
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  </p>
+
+  <!-- Links -->
+  <a href="https://github.com/YOUR-GITHUB-REPO">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?logo=github&logoColor=white" />
+  </a>
 </td>
+
 </tr>
 </table>
-
-
-
